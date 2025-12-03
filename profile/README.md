@@ -13,15 +13,6 @@ parallelization. It combines:
 - **Visual design capabilities** (in development)
 - **Platform APIs** for remote execution
 
-## Projects
-
-| Repository | Description |
-|------------|-------------|
-| [kloe](https://github.com/thymine-consulting/kloe) | Umbrella repo, discussions, and project overview |
-| [kloe-flow](https://github.com/thymine-consulting/kloe-flow) | Core dataflow runtime library |
-| [kloe-designer](https://github.com/thymine-consulting/kloe-designer) | Visual graph editor |
-| [kloe-api](https://github.com/thymine-consulting/kloe-api) | REST API server for flow management |
-
 ## Get Involved
 
 - 💡 **[Ideas & Feature Requests](https://github.com/orgs/thymine-consulting/discussions/categories/ideas)** -
