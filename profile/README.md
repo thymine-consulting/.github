@@ -1,5 +1,3 @@
-# Thymine Consulting
-
 We're building **Kloe**, a modern dataflow programming platform inspired by visual programming paradigms like
 LabVIEW.
 
