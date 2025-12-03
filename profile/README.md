@@ -19,6 +19,9 @@ Propose new features
 - 💬 **[General Discussion](https://github.com/orgs/thymine-consulting/discussions/categories/general)** - Chat
 about anything Kloe-related
 
+Please contact david@thymineconsulting.com for an invite to this organisation in order to participate in discussions
+or create new discussion topics.
+
 ## Status
 
 Kloe is in active development. We're building the foundation before opening up for broader contributions.
